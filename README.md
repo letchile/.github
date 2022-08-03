@@ -1,5 +1,5 @@
 # LET Chile
-Hola! y bienvenido al GitHub de LET Chile. Esta es la casa de los desarrolladores de la plataforma LET, la app [Autoinspección Seguro](https://play.google.com/store/apps/details?id=com.autoinspeccion) y mucho más.
+Hola! y bienvenido al GitHub de [LET Chile](https://www.letchile.cl/). Esta es la casa de los desarrolladores de la plataforma LET, la app [Autoinspección Seguro](https://play.google.com/store/apps/details?id=com.autoinspeccion) y mucho más.
 
 Si te interesa formar parte de nuestra familia, no dudes en ponerte en contacto con nosotros en [hola@let.cl](mailto:hola@let.cl)
 
